@@ -1,7 +1,5 @@
 # FedReserve-impact-on-Firm-level-decision
 
-# Federal Reserve Interest Rate Analysis and Its Economic Impact
-
 This repository, with main file 'Analysis.ipynb', contains Python scripts and visualizations analyzing the relationship between the **Federal Reserve's interest rate policy** and key economic and financial indicators, including:
 
 - Firm-level R&D and operating expenses (e.g., Apple)
