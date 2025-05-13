@@ -2,11 +2,11 @@
 
 # Federal Reserve Interest Rate Analysis and Its Economic Impact
 
-This repository contains Python scripts and visualizations analyzing the relationship between the **Federal Reserve's interest rate policy** and key economic and financial indicators, including:
+This repository, with main file 'Analysis.ipynb', contains Python scripts and visualizations analyzing the relationship between the **Federal Reserve's interest rate policy** and key economic and financial indicators, including:
 
 - Firm-level R&D and operating expenses (e.g., Apple)
 - Stock prices
-- Unemployment rate
+- Revenue trends
 
 The analysis uses **publicly available economic data** from the [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/) and financial information from [Yahoo Finance](https://finance.yahoo.com/), accessed programmatically using `pandas_datareader` and `yfinance`.
 
